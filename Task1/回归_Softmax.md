@@ -112,3 +112,7 @@ def softmax(X):
     # print("partition size is ", partition, partition.size())
     return X_exp / partition  # 这里应用了广播机制
 ```
+
+# 感知机
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190924153230543.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpbmF0XzM2MTE4MzY1,size_4,color_FFFFFF,t_70)
